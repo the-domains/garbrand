@@ -6,9 +6,9 @@ color:
   saturation: 0.46888829837553203
   rhythmicContrast: 0.21798181463964283
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#F4F4F4'
+    - '#CC2A25'
+    - '#8D8D8D'
+    - '#8D5C4E'
+    - '#040300'
 name: garbrand
