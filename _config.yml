@@ -1,4 +1,3 @@
-layout_spectrum: 0.23862935602664948
 typography_spectrum: 0.3012656713835895
 color:
   brandStrength: 0.6801875771488994
@@ -6,9 +5,11 @@ color:
   saturation: 0.46888829837553203
   rhythmicContrast: 0.21798181463964283
   brandColors:
-    - '#F4F4F4'
-    - '#CC2A25'
-    - '#8D8D8D'
-    - '#8D5C4E'
-    - '#040300'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.23862935602664948
 name: garbrand
+title: Future forwards.
