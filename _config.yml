@@ -1,0 +1,14 @@
+layout_spectrum: 0.23862935602664948
+typography_spectrum: 0.3012656713835895
+color:
+  brandStrength: 0.6801875771488994
+  lightness: 0.6522145047783852
+  saturation: 0.46888829837553203
+  rhythmicContrast: 0.21798181463964283
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: garbrand
